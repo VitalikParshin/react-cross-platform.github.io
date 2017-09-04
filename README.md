@@ -17,13 +17,13 @@
 
 <div>
   <h2>Android</h2>
-  <iframe src="https://appetize.io/embed/edrtcxb7wqu1cgny78wu9av4dc?device=nexus5&scale=100&autoplay=false&orientation=portrait&deviceColor=black&language=en" width="400px" height="795px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://appetize.io/embed/edrtcxb7wqu1cgny78wu9av4dc?device=nexus5&scale=75&autoplay=false&orientation=portrait&deviceColor=black&language=en" width="300px" height="597px" frameborder="0" scrolling="no"></iframe>
 </div>
 
 
 <div>
   <h2>iOS</h2>
-  <iframe src="https://appetize.io/embed/edrtcxb7wqu1cgny78wu9av4dc?device=nexus5&scale=100&autoplay=false&orientation=portrait&deviceColor=black&language=en" width="400px" height="795px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://appetize.io/embed/edrtcxb7wqu1cgny78wu9av4dc?device=nexus5&scale=75&autoplay=false&orientation=portrait&deviceColor=black&language=en" width="300px" height="597px" frameborder="0" scrolling="no"></iframe>
 </div>
 
 </div>
