@@ -5,25 +5,24 @@
 
 <html>
 
-<div style="display: flex">
-
+<div style="display: flex; flex-wrap: nowrap; justify-content: space-between; text-align: center; font-size: 1.5rem">
 
 <div>
-<h2>WEB</h2>
+<p>WEB</p>
 <iframe src="https://shop.serga.name" width="320" height="568">
   IFrame doens't supported
 </iframe>
 </div>
 
+
 <div>
-  <h2>Android</h2>
-<iframe src="https://appetize.io/embed/edrtcxb7wqu1cgny78wu9av4dc?device=nexus5&scale=75&autoplay=false&orientation=portrait&deviceColor=white&language=en" width="300px" height="597px" frameborder="0" scrolling="no"></iframe>
+  <p>iOS</p>
+<iframe src="https://appetize.io/embed/edrtcxb7wqu1cgny78wu9av4dc?device=nexus5&scale=75&autoplay=false&orientation=portrait&deviceColor=black&language=en" width="300px" height="597px" frameborder="0" scrolling="no"></iframe>
 </div>
 
-
 <div>
-  <h2>iOS</h2>
-<iframe src="https://appetize.io/embed/edrtcxb7wqu1cgny78wu9av4dc?device=nexus5&scale=75&autoplay=false&orientation=portrait&deviceColor=black&language=en" width="300px" height="597px" frameborder="0" scrolling="no"></iframe>
+  <p>Android</p>
+<iframe src="https://appetize.io/embed/edrtcxb7wqu1cgny78wu9av4dc?device=nexus5&scale=75&autoplay=false&orientation=portrait&deviceColor=white&language=en" width="300px" height="597px" frameborder="0" scrolling="no"></iframe>
 </div>
 
 </div>
