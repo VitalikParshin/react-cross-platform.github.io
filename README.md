@@ -1,7 +1,14 @@
 # react-cross-platform.github.io
 
-<html>
-<iframe src="https://www.youtube.com/watch?v=LoAn7Y_jrIE" width="400" height="800">
-  Don't work
+
+## Common GraphQL back-end
+<iframe src="https://shop.serga.name/graphiql" width="1000" height="568">
+  IFrame doens't supported
 </iframe>
-</html>
+
+
+## Front-end with shared common JS code
+
+<iframe src="https://shop.serga.name" width="320" height="568">
+  IFrame doens't supported
+</iframe>
