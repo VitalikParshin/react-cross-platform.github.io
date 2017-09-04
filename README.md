@@ -31,6 +31,6 @@
 
 
 ## Common GraphQL back-end
-<iframe src="https://shop.serga.name/graphiql" width="1000" height="500">
+<iframe src="https://shop.serga.name/graphiql?query=query%20%7B%0A%20%20categories%20%7B%0A%20%20%20%20id%0A%20%20%20%20name%0A%20%20%7D%0A%7D%0A&operationName=undefined" width="1000" height="500">
   IFrame doens't supported
 </iframe>
