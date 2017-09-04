@@ -9,7 +9,7 @@
 
 <div>
 <p>WEB</p>
-<iframe src="https://shop.serga.name" width="320" height="568">
+<iframe src="https://shop.serga.name" width="320" height="568" allowfullscreen="">
   IFrame doens't supported
 </iframe>
 </div>
